@@ -1,0 +1,14 @@
+/Users/jiapeter/Exercism/csharp/gigasecond/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/jiapeter/Exercism/csharp/gigasecond/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/jiapeter/Exercism/csharp/gigasecond/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/jiapeter/Exercism/csharp/gigasecond/bin/Debug/netcoreapp2.1/Gigasecond.deps.json
+/Users/jiapeter/Exercism/csharp/gigasecond/bin/Debug/netcoreapp2.1/Gigasecond.runtimeconfig.json
+/Users/jiapeter/Exercism/csharp/gigasecond/bin/Debug/netcoreapp2.1/Gigasecond.runtimeconfig.dev.json
+/Users/jiapeter/Exercism/csharp/gigasecond/bin/Debug/netcoreapp2.1/Gigasecond.dll
+/Users/jiapeter/Exercism/csharp/gigasecond/bin/Debug/netcoreapp2.1/Gigasecond.pdb
+/Users/jiapeter/Exercism/csharp/gigasecond/obj/Debug/netcoreapp2.1/Gigasecond.csprojAssemblyReference.cache
+/Users/jiapeter/Exercism/csharp/gigasecond/obj/Debug/netcoreapp2.1/Gigasecond.csproj.CoreCompileInputs.cache
+/Users/jiapeter/Exercism/csharp/gigasecond/obj/Debug/netcoreapp2.1/Gigasecond.AssemblyInfoInputs.cache
+/Users/jiapeter/Exercism/csharp/gigasecond/obj/Debug/netcoreapp2.1/Gigasecond.AssemblyInfo.cs
+/Users/jiapeter/Exercism/csharp/gigasecond/obj/Debug/netcoreapp2.1/Gigasecond.dll
+/Users/jiapeter/Exercism/csharp/gigasecond/obj/Debug/netcoreapp2.1/Gigasecond.pdb

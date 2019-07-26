@@ -1,0 +1,14 @@
+/Users/jiapeter/Exercism/csharp/grade-school/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/jiapeter/Exercism/csharp/grade-school/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/jiapeter/Exercism/csharp/grade-school/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/jiapeter/Exercism/csharp/grade-school/bin/Debug/netcoreapp2.1/GradeSchool.deps.json
+/Users/jiapeter/Exercism/csharp/grade-school/bin/Debug/netcoreapp2.1/GradeSchool.runtimeconfig.json
+/Users/jiapeter/Exercism/csharp/grade-school/bin/Debug/netcoreapp2.1/GradeSchool.runtimeconfig.dev.json
+/Users/jiapeter/Exercism/csharp/grade-school/bin/Debug/netcoreapp2.1/GradeSchool.dll
+/Users/jiapeter/Exercism/csharp/grade-school/bin/Debug/netcoreapp2.1/GradeSchool.pdb
+/Users/jiapeter/Exercism/csharp/grade-school/obj/Debug/netcoreapp2.1/GradeSchool.csprojAssemblyReference.cache
+/Users/jiapeter/Exercism/csharp/grade-school/obj/Debug/netcoreapp2.1/GradeSchool.csproj.CoreCompileInputs.cache
+/Users/jiapeter/Exercism/csharp/grade-school/obj/Debug/netcoreapp2.1/GradeSchool.AssemblyInfoInputs.cache
+/Users/jiapeter/Exercism/csharp/grade-school/obj/Debug/netcoreapp2.1/GradeSchool.AssemblyInfo.cs
+/Users/jiapeter/Exercism/csharp/grade-school/obj/Debug/netcoreapp2.1/GradeSchool.dll
+/Users/jiapeter/Exercism/csharp/grade-school/obj/Debug/netcoreapp2.1/GradeSchool.pdb
